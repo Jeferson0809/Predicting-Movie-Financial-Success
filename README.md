@@ -26,7 +26,7 @@ Eliminación de valores nulos, Agregacion de las columnas ROI y success, Cambiar
 Matriz de correlación, Histograma, Función de Densidad de Probabilidad (PDF), Cumulative Distribution Function (CDF), Violinplot, Scatterplot, Pairplot, Algoritmo genetico.
 
 **Regresión:**
-Regresion Lineal, Histograma de Residuales, Random Forest Regressor, Multilayer Perceptron.
+Regresio¿ón Lineal, Histograma de Residuales, Random Forest Regressor, Multilayer Perceptron.
 
 **Clasificadores:**
 Random Forest Classifier, Support Vector Classifier, K-Nearest Neighbors (KNN), Regresión Logística

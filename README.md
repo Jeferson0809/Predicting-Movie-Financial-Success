@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/b68c099e-b6e8-426f-ad44-69767c5062b0)# Predicting-Movie-Financial-Success
+# Predicting-Movie-Financial-Success
+![image](https://github.com/user-attachments/assets/b68c099e-b6e8-426f-ad44-69767c5062b0)
 Análisis del dataset TMDB para predecir el éxito financiero de películas. Se aplicaron modelos de ML supervisados y no supervisados (regresión, clasificación, clustering), explorando relaciones entre presupuesto, ROI, popularidad y otros factores clave.
 
 **Autores:** Jeferson Jair Acevedo Sarmiento, Jose David Rueda Bonilla, Andrés Felipe Avella Rubiano

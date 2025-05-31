@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/b68c099e-b6e8-426f-ad44-69767c5062b0)
 Análisis del dataset TMDB para predecir el éxito financiero de películas. Se aplicaron modelos de ML supervisados y no supervisados (regresión, clasificación, clustering), explorando relaciones entre presupuesto, ROI, popularidad y otros factores clave.
 
-#**Autores:** Jeferson Jair Acevedo Sarmiento, Jose David Rueda Bonilla, Andrés Felipe Avella Rubiano
+#Autores: Jeferson Jair Acevedo Sarmiento, Jose David Rueda Bonilla, Andrés Felipe Avella Rubiano
 
 **Objetivo:** El objetivo de este proyecto es analizar datos de películas del dataset TMDB y aplicar técnicas de aprendizaje automático supervisado y no supervisado para predecir su éxito financiero, identificando los factores que más influyen en el retorno de inversión y popularidad.
 

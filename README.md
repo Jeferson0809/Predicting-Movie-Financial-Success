@@ -1,4 +1,4 @@
-# Predicting-Movie-Financial-Success
+![image](https://github.com/user-attachments/assets/b68c099e-b6e8-426f-ad44-69767c5062b0)# Predicting-Movie-Financial-Success
 Análisis del dataset TMDB para predecir el éxito financiero de películas. Se aplicaron modelos de ML supervisados y no supervisados (regresión, clasificación, clustering), explorando relaciones entre presupuesto, ROI, popularidad y otros factores clave.
 
 **Autores:** Jeferson Jair Acevedo Sarmiento, Jose David Rueda Bonilla, Andrés Felipe Avella Rubiano
@@ -26,7 +26,7 @@ Eliminación de valores nulos, Agregacion de las columnas ROI y success, Cambiar
 Matriz de correlación, Histograma, Función de Densidad de Probabilidad (PDF), Cumulative Distribution Function (CDF), Violinplot, Scatterplot, Pairplot, Algoritmo genetico.
 
 **Regresión:**
-Regresio¿ón Lineal, Histograma de Residuales, Random Forest Regressor, Multilayer Perceptron.
+Regresión Lineal, Histograma de Residuales, Random Forest Regressor, Multilayer Perceptron.
 
 **Clasificadores:**
 Random Forest Classifier, Support Vector Classifier, K-Nearest Neighbors (KNN), Regresión Logística

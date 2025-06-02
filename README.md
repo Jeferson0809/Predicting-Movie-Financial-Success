@@ -41,7 +41,7 @@ K-Means, Analisis de Componentes Principales
 https://colab.research.google.com/drive/1Jwktq_zszvIEhmlOjhndDcNBgyE1bQ4r?usp=sharing
 
 # Enlace de video
-link yt
+https://youtu.be/aYBfb06IDX8
 
 # Enlace de diapositivas
 https://www.canva.com/design/DAGlwFBSKTs/eLs8BzE3UdzX22MPzwNPJQ/edit?utm_content=DAGlwFBSKTs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
